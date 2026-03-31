@@ -3,7 +3,7 @@ package com.fag.lucasmartins.arquitetura_software.infrastructure.adapters.out.pe
 import com.fag.lucasmartins.arquitetura_software.infrastructure.adapters.out.persistence.h2.entity.ProdutoEntity;
 import com.fag.lucasmartins.arquitetura_software.core.domain.bo.ProdutoBO;
 
-public class ProdutoMapper {
+public class    ProdutoMapper {
 
     private ProdutoMapper() {
     }
